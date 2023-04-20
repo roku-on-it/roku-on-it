@@ -1,7 +1,7 @@
 ### Hello <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="190"/> 
 
 Just a guy looking to make my developer workflow more awesome, build performant
-projects, understand memory, and ultimately craft really awesome software.
+projects, understand memory, and ultimately craft really awesome software :P
 
 ### More about me
 I have a strong passion for software development and constantly strive to improve my skills and knowledge. Currently, I am focused on developing projects with Rust, TypeScript and .NET, and I am always interested in exploring new technologies and tools that can help me build better software.
