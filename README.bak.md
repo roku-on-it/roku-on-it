@@ -18,3 +18,5 @@ In addition to those, I also have a keen interest in low-level programming and C
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="25"/> .NET stack - *developing fast and reliable web APIs with Microsoft standarts :P (and mainly because my tech stack revolves around TypeScript since I am developing my full-stack apps with Angular and NestJS, I am comfortable with C#)*
 
 LeetCode - *learning sorting and BST algorithms that I'll never use in my actual job(!) Joke, I actually enjoy solving interesting problems*
+
+[![My Skills](https://skillicons.dev/icons?i=aws,js,html,css,wasm)](https://skillicons.dev)
