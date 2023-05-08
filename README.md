@@ -15,7 +15,7 @@ In addition to those, I also have a keen interest in low-level programming and C
 ### Current interests of mine
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Original_Ferris.svg/2560px-Original_Ferris.svg.png" width="35"/> Rust - *fighting with borrow checker and deep diving into low-level programming*
 
-<img src="https://cdn.iconscout.com/icon/free/png-512/aws-282739.png?f=avif&w=256" width="25"/> AWS and Azure - *learning Terraform and Infra-as-a-Code*
+<img src="https://cdn.iconscout.com/icon/free/png-512/aws-282739.png?f=avif&w=256" width="25"/> AWS and Azure - *learning Cloud Computing*
 
 <img src="https://avatars.githubusercontent.com/u/22631371?s=280&v=4" width="25"/> QUIC - *planning to make a QUIC implementation with Rust in comply with [Core Specifications](https://www.chromium.org/quic/) that provides an interface to TypeScript* (not in the near future probably)
 
