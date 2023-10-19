@@ -1,10 +1,9 @@
 ### roku
 
-Just a guy looking to make my developer workflow more awesome, build performant
-projects, understand memory, and ultimately craft really awesome software :P
+Just a guy looking to make my developer workflow more awesome and craft really awesome software :P
 
 ### More about me
-I have a strong passion for software development and constantly strive to improve my skills and knowledge. Currently, I am focused on developing projects with Rust, TypeScript and .NET, and I am always interested in exploring new technologies and tools that can help me build better software.
+I have a strong passion for software development and constantly strive to improve my skills and knowledge. Currently, I am focused on developing projects with Go, Rust, TypeScript and .NET, and I am always interested in exploring new technologies and tools that can help me build better software.
 
 In addition to those, I also have a keen interest in low-level programming and Cloud Technologies ( AWS particularly :> ). Understanding of Cloud Computing is crucial to building performant and scalable web applications IMO.
 
