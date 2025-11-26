@@ -8,7 +8,7 @@ I have a strong passion for software development and constantly strive to improv
 In addition to those, I also have a keen interest in low-level programming and Cloud Technologies ( AWS particularly :> ). Understanding of Cloud Computing is crucial to building performant and scalable web applications IMO.
 
 ### My skills and tools
-[![My Skills](https://skillicons.dev/icons?i=rust,actix,aws,ts,js,rxjs,nest,deno,nginx,redis,cs,dotnet,angular,scss,git,docker,postgres,mysql,bash,linux,prisma,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,rust,actix,aws,ts,js,rxjs,nest,deno,nginx,redis,cs,dotnet,angular,scss,git,docker,postgres,mysql,bash,linux,prisma,go)](https://skillicons.dev)
 
 
 ### Current interests of mine
