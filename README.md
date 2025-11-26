@@ -3,7 +3,7 @@
 the smartest programmer that's ever lived :P
 
 ### More about me
-I have a strong passion for software development and constantly strive to improve my skills and knowledge. Currently, I am focused on developing projects with Go, Rust, TypeScript and I am always interested in exploring new technologies and tools that can help me build better software.
+I have a strong passion for software development and constantly strive to improve my skills and knowledge. Currently, I am focused on developing projects with C programming language in Embedded, Go, Rust, TypeScript and I am always interested in exploring new technologies and tools that can help me build better software.
 
 In addition to those, I also have a keen interest in low-level programming and Cloud Technologies ( AWS particularly :> ). Understanding of Cloud Computing is crucial to building performant and scalable web applications IMO.
 
